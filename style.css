@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img-main{
+    width: 50px;
+
+}
+
+#bg-light{
+    background-color: #f5ebdc;
+}
+
+
+
+
+.btn-orange{
+    background-color: #d62300;
+}
+
+.orange{
+    color: #d62300;
+}
+.btn-brown{
+    background-color: #502314;
+}
+.brown{
+    color: #502314;
+    font-size: 3.5rem;
+    font-weight: bold;
+}
