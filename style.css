@@ -9,10 +9,19 @@
 
 }
 
+.merriweather-light {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
 #bg-light{
     background-color: #f5ebdc;
 }
-
+ 
+#position{
+    position: fixed;
+}
 
 
 
@@ -24,14 +33,26 @@
     color: #d62300;
 }
 
+.border-orange{
+    border: 1px solid  #d62300;
+}
 .text-brown{
     color: #502314;
 }
+
 .btn-brown{
     background-color: #502314;
 }
+
 .brown{
     color: #502314;
     font-size: 3.5rem;
     font-weight: bold;
+}
+
+.fp-1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    font-weight: bold;
+    
 }
