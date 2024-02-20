@@ -18,10 +18,10 @@
 #bg-light{
     background-color: #f5ebdc;
 }
- 
-#position{
-    position: fixed;
-}
+#bg-light-dark{
+    background-color: #ebe2d3;
+} 
+
 
 
 
@@ -56,3 +56,12 @@
     font-weight: bold;
     
 }
+
+
+   /* margin class start  */
+
+.mt-5b{
+    margin-top: 100px;
+}  
+
+   /* margin class end  */
