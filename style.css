@@ -31,30 +31,53 @@
   /* background color class end */
 
 
+   /* button class start  */
+
 .btn-orange{
     background-color: #d62300;
-}
-
-.orange{
-    color: #d62300;
-}
-
-.border-orange{
-    border: 1px solid  #d62300;
-}
-.text-brown{
-    color: #502314;
 }
 
 .btn-brown{
     background-color: #502314;
 }
 
+   /* button class end  */
+   
+
+
+ /* text color class start  */
+
+
+.orange{
+    color: #d62300;
+}
+
+.text-brown{
+    color: #502314;
+}
+
+
 .brown{
     color: #502314;
     font-size: 3.5rem;
     font-weight: bold;
 }
+
+
+ /* text color class end  */
+  
+
+   /* border class start  */
+
+
+.border-orange{
+    border: 1px solid  #d62300;
+}
+
+   /* border class end  */
+        
+
+   /* font size class start  */
 
 .fp-1{
     font-family: 'Times New Roman', Times, serif;
@@ -64,6 +87,9 @@
 }
 
 
+   /* font size class end  */
+     
+
    /* margin class start  */
 
 .mt-5b{
@@ -71,3 +97,11 @@
 }  
 
    /* margin class end  */
+
+
+
+@media(max-width:600px){
+    #main-btn{
+        display: none;
+    }
+}
